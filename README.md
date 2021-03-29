@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alberto Gurrion 
-- 👀 I’m interested in SOA using microservices
-- 🌱 I’m currently learning DDD and frameworks related to microservices
+- 👀 I’m interested in SOA using microservices and automating SDLC using DevOps
+- 🌱 I’m currently learning DDD and frameworks related to microservices & modern java script 
 - 📫 Reach me at agurrion@hotmail.com ...
 
 <!---
